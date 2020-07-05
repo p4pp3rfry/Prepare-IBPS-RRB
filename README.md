@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## StudySpace
 
-You can use the [editor on GitHub](https://github.com/p4pp3rfry/Prepare-IBPS-RRB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Every year **IBPS** (Institute of Banking Personnel Selection) conducts **RRB Entrance Exam** for various posts in Regional Rural Banks. There are about 7000-9000 vacancies each year. With this StudySpace, I want to share with you my journey as well as the various resources/material I took the help from.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Daily Status
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+You can click on the respective data to read the work done. Also, resources are shared in the end of each page. They will be consolidated and put up on a different page too. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Day-1: July 5
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Resources
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p4pp3rfry/Prepare-IBPS-RRB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
