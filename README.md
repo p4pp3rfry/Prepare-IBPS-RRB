@@ -12,14 +12,14 @@ Every year **IBPS** (Institute of Banking Personnel Selection) conducts **RRB En
 
 Agenda - 6th July
 
-1. Gather/Buy all the resuources required for studying
-2. Review the syllabus and choose pain-strong points
-3. Start on the application
-4. Update StudySpace
+1. Start on the application
+2. Start studying Data Communication/Networks
+3. Update StudySpace
 
 ```
 
 **Day-1**: [July 5](https://p4pp3rfry.github.io/Preparing-for-IBPS-RRB/5_July.html)
+
 **Day-2**: July 6
 
 
