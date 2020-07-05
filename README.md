@@ -10,16 +10,19 @@ Every year **IBPS** (Institute of Banking Personnel Selection) conducts **RRB En
 - Resources are shared in the end of each page. 
 - They will be consolidated and put up on a different page too. 
 
+Agenda - 6th July
+
 1. Gather/Buy all the resuources required for studying
 2. Review the syllabus and choose pain-strong points
 3. Start on the application
 4. Update StudySpace
 
-
-Day-1: July 5
-
-
 ```
+
+**Day-1**: [July 5](https://p4pp3rfry.github.io/Preparing-for-IBPS-RRB/5_July.html)
+**Day-2**: July 6
+
+
 ## Resource
 
 This section will contain resources required for various sections of the exam. Primarily, the focus will be on Professional Knowledge, Computer Knowledge and General Affairs including Banking & Financial awareness.
