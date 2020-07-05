@@ -10,18 +10,24 @@ Every year **IBPS** (Institute of Banking Personnel Selection) conducts **RRB En
 - Resources are shared in the end of each page. 
 - They will be consolidated and put up on a different page too. 
 
-Day-1: July 5
-
-
-```
-
-## to-Do
-
 1. Gather/Buy all the resuources required for studying
 2. Review the syllabus and choose pain-strong points
 3. Start on the application
 4. Update StudySpace
 
-## Resources
+
+Day-1: July 5
+
+
+```
+## Resource
+
+### Financial Awareness & Current Affairs
+
+- [BankExamsToday - Financial Awareness](https://www.bankexamstoday.com/p/financial-awareness_16.html)
+- [BankExamsTOday - Banking Awareness](https://www.bankexamstoday.com/2015/08/banking-awareness-questions-pdf.html)
+- [GK Today](https://www.gktoday.in/)
+- [BankersAdda - Banking Awareness](https://www.bankersadda.com/banking-awareness/)
+- [AffairsCloud](https://affairscloud.com/)
 
 
