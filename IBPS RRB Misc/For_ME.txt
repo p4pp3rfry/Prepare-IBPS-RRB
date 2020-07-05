@@ -74,6 +74,58 @@ Operating System
 DBMS
 Data Structures
 
+-----
+
+Detailed Syllabus
+
+IBPS RRB IT Officer Scale-II Syllabus 2020
+
+1. Operating System
+Types of Operating System, Process Concepts and PCB, Process Scheduling, Schedulers, and Context Switching, Interprocess Communication, CPU Scheduling, Scheduling Criteria, Scheduling AlgorithmsFCFS, SJFS, Priority Scheduling, Round-Robin Scheduling, Multilevel Queue Scheduling,Multilevel Feedback Queue Scheduling, Multiple-Processor Scheduling, Real-Time Scheduling, The Critical Section Problem, Semaphores, The Dining Philosophers Problems, Critical Regions, Deadlock- Prevention, Avoidance, Detection, Recovery, Bankers Algorithm, Memory Management, Segmentation, Virtual Memory, Demand Paging, Page Replacement Algorithms- FIFO, Optimal Algorithm, LRU, Second Change; Counting Algorithm , Thrashing, Basics of LINUX and UNIX.
+
+2. Database Management Systems
+Database models, RDBMS, File Management System VS DBMS, Tuple Relational Calculus, Normal Forms,Data-Structure Diagrams, ER Diagram, SQL Basics, Transaction Control.
+
+3. Data Structure
+Asymptotic Notation, Stacks and Queues, Trees, Algorithms, Binary Trees, Heaps and Heapsort,Minimum Spanning Trees, All pair shortest path, Optimal Binary Search Trees, Tree Traversal, GraphsSearch and Traversal techniques, Sorting- Insertion Sort, Selection Sort, Radix Sort, Merging, Complexity of Sorting and Merging Algorithms, Hashing, Chaining, PASCAL, Looping, Break and continue statement, Functions
+
+4. Object-Oriented Programming
+Java Basics (History of Java, data types, variables, scope and lifetime of variables, arrays, operators, expressions, control statements, type conversion and casting, simple java program, concepts of classes,
+objects, constructors, methods, access control, this keyword, overloading methods and constructors, parameter passing, recursion, nested and inner classes, exploring string class), Inheritance, Polymorphism, Encapsulation, Packages and Interfaces, Exception Handling, Multithreading, Event Handling, Applets.
+
+5. Computer Network
+Reference Models, OSI and TCP Models, Data Transmission, Transmission Medium, IEEE Standards, and Protocols- 802.3, 802.4, 802.5, IP Address, NIC, Switching, Networking devices, Internet, Types of Networks.
+
+6. Software Engineering
+SDLC (Software Development Life Cycle), Software Configuration Management (SCM), Software Development Models, Requirement Elicitation, Software Design and Maintenance, Software Testing:
+Testing Objectives, Unit Testing, Integration Testing, Acceptance Testing, Regression Testing, Testing for Functionality and Testing for Performance, Top-Down and Bottom-Up Testing Strategies: Test Drivers and Test Stubs, Structural Testing (White Box Testing), Functional Testing (Black Box Testing), Test Data Suit Preparation, Alpha and Beta Testing of Products. Static Testing Strategies: Formal Technical Reviews (Peer Reviews), Walk Through, Code Inspection, Compliance with Design and Coding Standards.
+
+7. Compiler Design/ Language Processor
+Assemblers, Compiler structure, Lexical Analyser, Parsing, Buffer pairs, syntax error handling, Parse tree and derivation, grammar, bottom-up parsing, LR Parsing, Syntax tree, Storage Organization, macro instructions, macro processor, loader, linker, interpreters.
+
+8. Computer and Network Security
+Basic security topics, including symmetric and public key cryptography, digital signatures, cryptographic hash functions, authentication pitfalls, and network security protocols.
+
+9. Computer Organisation
+Number System, Arithmetic Addition and subtraction, Overflow Detection, Decimal Fixed Point Representation, Floating Point Representation, Gray Code, Weighted Code, Excess-3 Code, Error Detection Codes, Parity Bit, Odd Function, Machine Language, Addressing Modes, Program Counter, CPU, General Register Organisation, Control Word, Microprogrammed Control, Data Dependency, Memory Organisation, Cache, Mapping.
+
+10. Microprocessor and Computer Hardware
+Microprocessor Architecture and its operations, 8085, 8080A, Bus Organization, Registers, Accumulator, Stack Pointer, Memory Classification, Flip Flop, R/W Memory, ROM, RAM, 8085 Control and Status Signals, Power Supply and Clock Frequency, Logical Operations, Instruction Format, Stacks, Subroutine, Interrupts, Programmable Interrupt Controller, Interrupt Operation, Ladder Network, D/A Converters, Multiplexer De-multiplexer, Digital Comparator, Parity Generator/Checker, Flip Flop, Ring Counter, Ripple Counter, Up/Down Counter, Synchronous Counter.
+
+11. Web Technology
+Web Page Designing: HTML: list, table, images, frames, forms, CSS, Document type definition, XML: DTD, XML schemes, Object Models, presenting and using XML, Using XML Processors: DOM and SAX, Dynamic
+HTML.
+Scripting: Javascript: Introduction, documents, forms, statements, functions, objects; introduction to AJAX, VB Script, Introduction to Java Beans, Advantage, Properties, BDK, Introduction to EJB, Java Beans
+API. Server Site Programming: Introduction to active server pages (ASP), Introduction to Java Server Page (JSP), JSP Application Design, JSP objects, Conditional Processing, Declaring variables and methods, Sharing data between JSP pages, Sharing Session and Application Data, Database Programming using JDBC, development of java beans in JSP, Introduction to Servlets, Lifecycle, JSDK, Servlet API, Servlet Packages, Introduction to COM/DCOM/CORBA. PHP (Hypertext Preprocessor): Introduction, syntax,
+variables, strings, operators, if-else, loop, switch, array, function, form, mail, file upload, session, error, exception, filter, PHP-ODBC
+
+12. Data warehousing & Data Mining
+Data Warehouse Process and Technology: Warehousing Strategy, Warehouse management and Support Processes, Warehouse Planning and Implementation, Hardware and Operating Systems for Data Warehousing, Client/Server Computing Model & Data Warehousing. Parallel Processors & Cluster Systems, Distributed DBMS implementations, Warehousing Software, Warehouse Schema Design, Data Extraction, Cleanup & Transformation Tools, Warehouse Metadata
+Data Mining: Overview, Motivation, Definition & Functionalities, Data Processing, Form of Data Preprocessing, Data Cleaning: Missing Values, Noisy Data,(Binning, Clustering, Regression, Computer and Human inspection), Inconsistent Data, Data Integration and Transformation. Data Reduction:-Data Cube Aggregation, Dimensionality reduction, Data Compression, Numerosity Reduction, Discretization and Concept hierarchy, generation.
+Data Visualization and Overall Perspective: Aggregation, Historical information, Query Facility, OLAP function, and Tools. OLAP Servers, ROLAP, MOLAP, HOLAP, Data Mining interface, Security, Backup and
+Recovery, Tuning Data Warehouse, Testing Data Warehouse. Warehousing applications and Recent Trends: Types of Warehousing Applications, Web Mining, Spatial Mining, and Temporal Mining.
+
+
 +++++++
 
 

@@ -15,7 +15,7 @@ Day-1: July 5
 
 ```
 
-## toDo
+## to-Do
 
 1. Gather/Buy all the resuources required for studying
 2. Review the syllabus and choose pain-strong points
