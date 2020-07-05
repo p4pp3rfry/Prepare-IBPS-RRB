@@ -22,12 +22,19 @@ Day-1: July 5
 ```
 ## Resource
 
+This section will contain resources required for various sections of the exam. Primarily, the focus will be on Professional Knowledge, Computer Knowledge and General Affairs including Banking & Financial awareness.
+
+
+### Professional Knowledge
+
 ### Financial Awareness & Current Affairs
 
 - [BankExamsToday - Financial Awareness](https://www.bankexamstoday.com/p/financial-awareness_16.html)
-- [BankExamsTOday - Banking Awareness](https://www.bankexamstoday.com/2015/08/banking-awareness-questions-pdf.html)
+- [BankExamsToday - Banking Awareness](https://www.bankexamstoday.com/2015/08/banking-awareness-questions-pdf.html)
 - [GK Today](https://www.gktoday.in/)
 - [BankersAdda - Banking Awareness](https://www.bankersadda.com/banking-awareness/)
 - [AffairsCloud](https://affairscloud.com/)
+
+### Computer Knowledge
 
 
