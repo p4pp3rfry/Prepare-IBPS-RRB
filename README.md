@@ -6,8 +6,9 @@ Every year **IBPS** (Institute of Banking Personnel Selection) conducts **RRB En
 
 ```markdown
 
-You can click on the respective data to read the work done. Also, resources are shared in the end of each page. They will be consolidated and put up on a different page too. 
-
+- You can click on the respective data to read the work done. 
+- Resources are shared in the end of each page. 
+- They will be consolidated and put up on a different page too. 
 
 Day-1: July 5
 
